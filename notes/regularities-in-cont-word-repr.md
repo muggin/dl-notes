@@ -24,4 +24,4 @@ The paper introduces the classic example v(king) - v(man) + v(woman) ~ v(queen).
 #### Other notes
 - Semantic regularities: v(berlin) - v(germany) + v(france) ~ v(paris)
 - Syntactic regularities: v(biggest) - v(big) + v(small) ~ v(smallest) 
-- Authors don't mention the trianing time of the RNNLM model?
+- Authors don't mention the training time of the model?
