@@ -10,7 +10,7 @@ The paper introduces the classic example v(king) - v(man) + v(woman) ~ v(queen).
 
 #### Key points
 - Word representations created using RNNLM (80/320/640/1600 dim)
-- Created syntactic analogy questions dataset: _a_ is to _b_ as _c_ is to __?
+- Created syntactic analogy questions dataset: _a_ is to _b_ as _c_ is to _?
 - To answer analogy question, find vector that is closest to y = x_b - x_a + x_c, (using cosine sim) 
 - Trained using maximal likelihood criterion
 
