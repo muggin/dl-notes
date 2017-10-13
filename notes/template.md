@@ -1,5 +1,6 @@
 ## Title
-_Authors:_ 
+_Authors:_   
+_Publishing Year:_  
 _Link:_ 
 
 #### Summary
