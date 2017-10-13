@@ -18,7 +18,7 @@ The quality of the embeddings was primarily measured on the semantic similarity 
 - CBOW model predicts the target word given the context words as input.
     - Context words are projected to the vector space and averaged.
 - Skip-gram model predicts the context words given the target word as input
-    - At each step the number of context words (from the past and future) is chosen randomly - dynamic context window.
+    - At each step the number of context words (from past and future) is chosen randomly - dynamic context size.
 - Output of models was a Hierarchical Softmax with the vocabulary organized as a Huffman binary tree.
     - Using Huffman tree decreases the computational complexity from log(V) (balanced binary tree) to log(unigram_perplexity(V)).
 
@@ -31,3 +31,4 @@ The quality of the embeddings was primarily measured on the semantic similarity 
 - New models outperforms previously used models in most tests
 
 #### Other notes
+- How exactly is the skip-gram model implemented? Is the context "flattened" to create separate (target, context_word) pairs?
