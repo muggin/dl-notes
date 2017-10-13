@@ -1,7 +1,7 @@
 ## Efficient Estimation of Word Representations in Vector Space
-_Authors:_ Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
-_Publishing Year:_ 2013
-_Link:_ 
+_Authors:_ Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean  
+_Publishing Year:_ 2013  
+_Link:_ https://arxiv.org/abs/1301.3781
 
 #### Summary
 Authors propose two neural architectures for generating continous vector representations using large data sets.
