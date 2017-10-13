@@ -1,5 +1,6 @@
 ## Linguistic Reglarities in Continuous Space Word Representations
 _Authors:_ Tomas Mikolov, Wen-tau Yih, Geoffrey Zweig  
+_Publishing Year:_ 2013  
 _Link:_  https://www.aclweb.org/anthology/N13-1090
 
 #### Summary
