@@ -16,7 +16,7 @@ The paper introduces the classic example v(king) - v(man) + v(woman) ~ v(queen).
 - Trained using maximal likelihood criterion
 
 #### Experiments
-- Trained on Broadcast News data - 320M words, 82k vocabulary
+- Trained on Broadcast News data set - 320M words, 82k vocabulary
 - Compared against LSA and Log-Bilinear model
 - Beat most models in semantic and syntactic test
 - Achieves (nearely) 40% correctness on syntactic tasks
