@@ -4,4 +4,5 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 
 
 ## Natural Language Processing
-[Linguistic Regularities in Continuous Space Word Representations](notes/regularities-in-cont-word-repr.md) - Mikolov et al. [[paper](https://www.aclweb.org/anthology/N13-1090)]
+[Linguistic Regularities in Continuous Space Word Representations](notes/regularities-in-cont-word-repr.md) - Mikolov et al. [[paper](https://www.aclweb.org/anthology/N13-1090)]   
+[Efficient Estimation of Word Representations in Vector Space](notes/efficient-esti-of-word-repr.md) - Mikolov et al. [[paper](https://arxiv.org/abs/1301.3781)]
