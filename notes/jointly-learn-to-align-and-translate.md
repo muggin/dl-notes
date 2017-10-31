@@ -10,14 +10,19 @@ Authors propose an extension of the Encoder-Decoder architecture that solves the
 - Encoder is a single layer bi-directional recurrent network with GRU units
   - Hidden states of the forward and backward layers are concatenated
   - Allows to summarize past and future contexts of a given word
-- Decoder is a single layer one-directional recurrent network with GRU units
+- Decoder is a single layer uni-directional recurrent network with GRU units
 - Similarity function between annotation and hidden state implemented as one layer Perceptron
 - All components (including Perceptron) trained jointly to maximize prob of target given source
+- 
 - Method allows modeling non-monotonic alignments between source and target sequences
 - Annotation weights can be visualized to show the alignment between source and targer sequences
 
 #### Experiments
 - Trained on WMT '14 data set - 348M tokens (reduced), 30k German & English vocabulary (limited)
-- Sequences limited to 30 and 50 tokens for experiments
+- Models trained/tested on sequences limited to 30 and 50 tokens
+- Attention-based models perform much better on long sequences when compared to basic Encoder-Decoder
+- Best model achieved 28.45 BLEU points
+- Qualitative experiments showed non-trivial, non-monotonic alignments between sequences
 
 #### Other notes
+- First publication on attention models in NMT
