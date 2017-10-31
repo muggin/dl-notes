@@ -13,7 +13,6 @@ Authors propose an extension of the Encoder-Decoder architecture that solves the
 - Decoder is a single layer uni-directional recurrent network with GRU units
 - Similarity function between annotation and hidden state implemented as one layer Perceptron
 - All components (including Perceptron) trained jointly to maximize prob of target given source
-- 
 - Method allows modeling non-monotonic alignments between source and target sequences
 - Annotation weights can be visualized to show the alignment between source and targer sequences
 
