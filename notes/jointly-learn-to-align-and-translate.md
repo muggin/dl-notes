@@ -4,7 +4,7 @@ _Publishing Year:_ 2014
 _Link:_ https://arxiv.org/abs/1409.0473
 
 #### Summary
-Authors propose an extension of the Encoder-Decoder architecture that solves the problem of modeling long sequences. Instead of using the Encoder to create a single, fixed-size summary vector of the source sequence, a sequence of vectors (annotations) is created. This solution allows the Decoder to look back into the source sequence and adaptively choose which parts of it are relevant at each decoding step. The summary vectors on which the predictions are conditioned are computed at each step as a weighted sum of all annotations created by the Encoder. The weight is computed as a similarity function between the given annotation and the previous hidden state of the Decoder. 
+Authors propose an extension of the Encoder-Decoder architecture that solves the problem of modeling long sequences. Instead of using the Encoder to create a single, fixed-size summary vector of the source sequence, a sequence of vectors (annotations) is created. This solution allows the Decoder to look back into the source sequence and adaptively choose which parts of it are relevant at each decoding step. The summary vectors on which the predictions are conditioned are computed at each step as a weighted sum of all annotations created by the Encoder. Each weights is computed by a similarity function between the given annotation and the previous hidden state of the Decoder. The procedure can be interpreted as finding alignments between the source and target sequences.
 
 #### Key points
 - Encoder is a single layer bi-directional recurrent network with GRU units
