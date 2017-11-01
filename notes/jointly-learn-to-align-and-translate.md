@@ -16,7 +16,7 @@ Authors propose an extension of the Encoder-Decoder architecture that solves the
 - Annotation weights can be visualized to show the alignment between source and targer sequences
 
 #### Experiments
-- Trained on WMT '14 data set - 348M tokens (reduced), 30k German & English vocabulary (limited)
+- Trained on WMT '14 English-French data set - 348M tokens (reduced), 30k French & English vocabulary (limited)
 - Models trained/tested on sequences limited to 30 and 50 tokens
 - Attention-based models perform much better on long sequences when compared to basic Encoder-Decoder
 - Best model achieved 28.45 BLEU points
