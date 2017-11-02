@@ -15,11 +15,11 @@ Authors proposed a fully neural architecture for image captioning called Neural 
 
 #### Experiments
 - Evaluated on 5 different datasets
-  - Pascal VOC 2008 - no training examples/1k testing examples
-  - Flickr8k - 6k training examples/1k testing examples 
-  - Flickr30k - 28k training examples/1k testing examples
-  - MSCOCO - 82k training examples/40k testing examples
-  - SBU - 1M training examples/no testing examples
+  - Pascal VOC 2008 - no training examples/1k testing examples - 59 BLUE-1 points
+  - Flickr8k - 6k training examples/1k testing examples - 66 BLUE-1 points
+  - Flickr30k - 28k training examples/1k testing examples - 63 BLUE-1 points
+  - MSCOCO - 82k training examples/40k testing examples - 27.7 BLEU-4 points
+  - SBU - 1M training examples/no testing examples - 28 BLEU-1 points
 - 80% of Top-1 generated captions were in the training set (network memorized them?)
 - 50% of Top-15 generated captions were in the training set
 
