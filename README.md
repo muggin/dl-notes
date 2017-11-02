@@ -13,6 +13,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Effective Approaches to Attention-based Neural Machine Translation](notes/effective-approach-to-attention-nmt.md) - Luong et al. [[paper](https://arxiv.org/abs/1508.04025)]
 
 #### Image Captioning
-[Show and Tell: A Neural Image Caption Generator](notes/show-and-tell.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1411.4555)] 
+[Show and Tell: A Neural Image Caption Generator](notes/show-and-tell.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1411.4555)]   
+[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-and-tell.md) - Xu et al. [[paper](https://arxiv.org/abs/1502.03044)]
 
 #### Other
