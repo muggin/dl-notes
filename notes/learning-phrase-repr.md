@@ -18,6 +18,8 @@ The authors propose a novel neural architecture called the RNN Encoder-Decoder. 
 #### Experiments
 - Model trained on the English-French WMT '14 task (Europarl, UN, news commentary datasets)
   - Vocabulary limited to 15k most popular tokens in each language
+- Apart from rescoring the phrase table authors also successfully tried to generate translated phrases
+- The model encoded single words and short phrases in a way that preserved their semantic meaning
   
 #### Other notes
 - Authors proposed replacing the SMT with a end-to-end Encoder-Decoder model, later explored by Sutskever
