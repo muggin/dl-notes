@@ -10,6 +10,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 
 #### Neural Machine Translation
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-repr.md) - Cho et al. [[paper](https://arxiv.org/abs/1406.1078)]    
+[Sequence to Sequence Learning with Neural Networks](notes/seq-to-seq-neural-nets.md) - Sutskever et al. [[paper](https://arxiv.org/abs/1409.3215)]    
 [Neural Machine Translation by Jointly Learning To Align and Translate](notes/jointly-learn-to-align-and-translate.md) - Bahdanau et al. [[paper](https://arxiv.org/abs/1409.0473)]  
 [Effective Approaches to Attention-based Neural Machine Translation](notes/effective-approach-to-attention-nmt.md) - Luong et al. [[paper](https://arxiv.org/abs/1508.04025)]   
 [Google's Neural Machine Translation System: Bridging the Gap between Human and MT](notes/gnmt.md) - Wu et al. [[paper](https://arxiv.org/abs/1609.08144)]   
