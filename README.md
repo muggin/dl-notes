@@ -9,6 +9,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [GloVe: Global Vectors for Word Representations](notes/glove.md) - Pennington et al [[paper](https://nlp.stanford.edu/pubs/glove.pdf)]    
 
 #### Neural Machine Translation
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-repr.md) - Cho et al. [[paper](https://arxiv.org/abs/1406.1078)]    
 [Neural Machine Translation by Jointly Learning To Align and Translate](notes/jointly-learn-to-align-and-translate.md) - Bahdanau et al. [[paper](https://arxiv.org/abs/1409.0473)]  
 [Effective Approaches to Attention-based Neural Machine Translation](notes/effective-approach-to-attention-nmt.md) - Luong et al. [[paper](https://arxiv.org/abs/1508.04025)]   
 [Google's Neural Machine Translation System: Bridging the Gap between Human and MT](notes/gnmt.md) - Wu et al. [[paper](https://arxiv.org/abs/1609.08144)]   
