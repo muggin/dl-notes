@@ -22,3 +22,4 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-and-tell.md) - Xu et al. [[paper](https://arxiv.org/abs/1502.03044)]
 
 #### Other
+[Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]     
