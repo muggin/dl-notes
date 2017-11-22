@@ -6,7 +6,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 #### Word Embeddings
 [Linguistic Regularities in Continuous Space Word Representations](notes/regularities-in-cont-word-repr.md) - Mikolov et al. [[paper](https://www.aclweb.org/anthology/N13-1090)]   
 [Efficient Estimation of Word Representations in Vector Space](notes/efficient-esti-of-word-repr.md) - Mikolov et al. [[paper](https://arxiv.org/abs/1301.3781)]   
-[Distributed Representations of Words and Phrases and their Compositionality](notes/dist-representation-words.md.md) - Mikolov et al. [[paper](https://arxiv.org/abs/1310.4546)]      
+[Distributed Representations of Words and Phrases and their Compositionality](notes/dist-representation-words.md) - Mikolov et al. [[paper](https://arxiv.org/abs/1310.4546)]      
 [GloVe: Global Vectors for Word Representations](notes/glove.md) - Pennington et al [[paper](https://nlp.stanford.edu/pubs/glove.pdf)]    
 
 #### Neural Machine Translation
