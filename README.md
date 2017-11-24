@@ -15,7 +15,8 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Neural Machine Translation by Jointly Learning To Align and Translate](notes/jointly-learn-to-align-and-translate.md) - Bahdanau et al. [[paper](https://arxiv.org/abs/1409.0473)]  
 [Effective Approaches to Attention-based Neural Machine Translation](notes/effective-approach-to-attention-nmt.md) - Luong et al. [[paper](https://arxiv.org/abs/1508.04025)]   
 [Google's Neural Machine Translation System: Bridging the Gap between Human and MT](notes/gnmt.md) - Wu et al. [[paper](https://arxiv.org/abs/1609.08144)]   
-[Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-zero.md) - Johnson et al. [[paper](http://arxiv.org/pdf/1611.04558.pdf)]
+[Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-zero.md) - Johnson et al. [[paper](http://arxiv.org/pdf/1611.04558.pdf)]    
+[Plan, Attend, Generate: Character-Level Neural Machine Translation with Planning](notes/plan-attend-generate.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1706.05087)]    
 
 #### Image Captioning
 [Show and Tell: A Neural Image Caption Generator](notes/show-and-tell.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1411.4555)]   
