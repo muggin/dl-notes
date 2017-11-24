@@ -23,3 +23,4 @@ The authors propose extending an attention-based Encoder-Decoder architecture wi
 - Solution inspired by the Strategic Attentive Reader and Writer (STRAW) model
 - How many steps ahead does the model plan, is it a hyperparameter?
 - Humans plan what they want to say, and choose words ahead of time, this model tries to imitate that
+- The model is similar to a basic attention-based Encoder-Decoder, but alignment weights (alphas) come from a precomputed matrix, and are not computed at each step
