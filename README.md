@@ -23,6 +23,6 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-and-tell.md) - Xu et al. [[paper](https://arxiv.org/abs/1502.03044)]
 
 #### Other
-[Pointer Networks](notes/pointer-networks.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1506.03134)]
+[Pointer Networks](notes/pointer-networks.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1506.03134)]    
 [Pointing the Unknown Words](notes/pointing-the-unknown.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1603.08148 )]     
 [Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]     
