@@ -7,8 +7,8 @@ _Link:_ https://arxiv.org/abs/1603.08148
 The authors propose a novel neural architecture for the general task of sequence transduction that aims to efficiently handle the rare-word problem. The intuition behind the solution is based on psychological evidence that humans tend to point to objects which names they don't known. The proposed model uses two independent output layers, one being a classic softmax over the output vocabulary and the other being a location softamx over the input sequence (pointer network). The model utilizes a simple MLP (switching network) to decide which output should be used to output the next token. The authors called their hybrid architecture _Pointer Softmax_. The model is fully differentiably and trained jointly. Experiments show that the architecture learns _when_ and _where_ to point and _when_ to produce a regular softmax output. Authors apply the architecture to machine translation and text summarization problems.
 
 #### Key points
-- General architecture is based on the model proposed by [Bahdanau et al.](notes/jointly-learn-to-align-and-translate.md)
-- Location softmax is based on the model proposed by [Vinyals et al.](notes/pointer-networks.md)
+- General architecture is based on the model proposed by [Bahdanau et al.](jointly-learn-to-align-and-translate.md)
+- Location softmax is based on the model proposed by [Vinyals et al.](pointer-networks.md)
 - Switching network takes as input the context vector (avg annotations) and the prev hidden state of the Decoder
 - If the next word is not in the output vocabulary nor in the input sequence an `<UNK>` token is generated
 - Training data must be augmented with information which softmax output to use (supervision of the switch)
