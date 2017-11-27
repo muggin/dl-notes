@@ -24,5 +24,6 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 
 #### Other
 [Pointer Networks](notes/pointer-networks.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1506.03134)]     
-[Pointing the Unknown Words](notes/pointing-the-unknown.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1603.08148)]         [Pointer Sentinel Mixture Model](notes/pointer-sentinel-mixture.md) - Merity et al. [[paper](https://arxiv.org/abs/1609.07843)]      
+[Pointing the Unknown Words](notes/pointing-the-unknown.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1603.08148)]    
+[Pointer Sentinel Mixture Model](notes/pointer-sentinel-mixture.md) - Merity et al. [[paper](https://arxiv.org/abs/1609.07843)]      
 [Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]     
