@@ -18,6 +18,10 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-zero.md) - Johnson et al. [[paper](http://arxiv.org/pdf/1611.04558.pdf)]    
 [Plan, Attend, Generate: Character-Level Neural Machine Translation with Planning](notes/plan-attend-generate.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1706.05087)]    
 
+#### Text Summarization
+[A Hierarchical Neural Autoencoder for Paragraphs and Documents](notes/hier-neural-autoencoder.md) - Li et al. [[paper](https://arxiv.org/abs/1506.01057)]  
+[A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attn-abs-sent-summ.md) - Rush et al. [[paper](https://arxiv.org/abs/1509.00685)]     
+
 #### Image Captioning
 [Show and Tell: A Neural Image Caption Generator](notes/show-and-tell.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1411.4555)]   
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-and-tell.md) - Xu et al. [[paper](https://arxiv.org/abs/1502.03044)]
@@ -26,5 +30,4 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Pointer Networks](notes/pointer-networks.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1506.03134)]     
 [Pointing the Unknown Words](notes/pointing-the-unknown.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1603.08148)]    
 [Pointer Sentinel Mixture Model](notes/pointer-sentinel-mixture.md) - Merity et al. [[paper](https://arxiv.org/abs/1609.07843)]      
-[Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]     
-[A Hierarchical Neural Autoencoder for Paragraphs and Documents](notes/hier-neural-autoencoder.md) - Li et al. [[paper](https://arxiv.org/abs/1506.01057)]      
+[Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]         
