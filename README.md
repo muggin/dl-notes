@@ -27,3 +27,4 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Pointing the Unknown Words](notes/pointing-the-unknown.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1603.08148)]    
 [Pointer Sentinel Mixture Model](notes/pointer-sentinel-mixture.md) - Merity et al. [[paper](https://arxiv.org/abs/1609.07843)]      
 [Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]     
+[A Hierarchical Neural Autoencoder for Paragraphs and Documents](notes/hier-neural-autoencoder.md) - Li et al. [[paper](https://arxiv.org/abs/1506.01057)]      
