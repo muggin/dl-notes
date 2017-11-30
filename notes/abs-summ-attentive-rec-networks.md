@@ -1,5 +1,5 @@
 ## Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
-_Authors:_ Sumit Chopra, Michael Auli, Alexander Rush    
+_Authors:_ Sumit Chopra, Michael Auli, Alexander M. Rush    
 _Publishing Year:_ 2016    
 _Link:_ http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf       
 
