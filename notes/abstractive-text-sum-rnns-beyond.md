@@ -7,6 +7,7 @@ _Link:_ https://arxiv.org/abs/1602.06023    
 In the paper the authors apply an attention-based Encoder-Decoder network designed for Machine Translation to the problem of Abstractive Text Summarization and treat it as the baseline for experiments. The architecture is also extended in several ways to address the differences between the NMT and ATS tasks and shortcomings of the Neural Language Modeling. The problems which are considered where: large output size of the vocabulary, unseen and rare words, hierarchical structure of sentences. In addition to the complex model, the authors also introduce a new dataset specifically designed for the task of Abstractive Text Summarization with summaries longer than a single sentence. The new dataset is a modification of the CNN/DailyMail datasets introduced by [Hermann et al](teaching-machines-read.md).
 
 #### Key points
+- Encoder used a bi-directional GRU unit, Decoder used a uni-directional GRU unit
 - Output vocabulary dynamically created based on the vocabulary of the current batch (and sampled if too small)
 - Switching mechanisms used that decided whether next token should be generated or copied from input
 - Hierarchical attention mechanisms was used to attend on different levels of abstraction (word and sentence level)
