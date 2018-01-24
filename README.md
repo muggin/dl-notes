@@ -21,7 +21,8 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 #### Text Summarization
 [A Hierarchical Neural Autoencoder for Paragraphs and Documents](notes/hier-neural-autoencoder.md) - Li et al. [[paper](https://arxiv.org/abs/1506.01057)]  
 [A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attn-abs-sent-summ.md) - Rush et al. [[paper](https://arxiv.org/abs/1509.00685)]     
-[Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](notes/abs-summ-attentive-rec-networks.md) - Chopra et al. [[paper](http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf)]       
+[Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](notes/abs-summ-attentive-rec-networks.md) - Chopra et al. [[paper](http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf)]  
+[Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](notes/abstractive-text-sum-rnns-beyond.md) - Nallapati et al. [[paper](https://arxiv.org/abs/1602.06023)]    
 
 
 #### Image Captioning
