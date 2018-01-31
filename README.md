@@ -24,7 +24,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](notes/abs-summ-attentive-rec-networks.md) - Chopra et al. [[paper](http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf)]  
 [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](notes/abstractive-text-sum-rnns-beyond.md) - Nallapati et al. [[paper](https://arxiv.org/abs/1602.06023)]   
 [Get To The Point: Summarization with Pointer-Generator Networks](notes/get-to-the-point.md) - See et al. [[paper](https://arxiv.org/abs/1704.04368)]   
-
+[A Deep Reinforced Model for Abstractive Summarization](notes/reinforced-text-sum.md) - Paulus et al. [[paper](https://arxiv.org/abs/1705.04304)]   
 
 #### Image Captioning
 [Show and Tell: A Neural Image Caption Generator](notes/show-and-tell.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1411.4555)]   
