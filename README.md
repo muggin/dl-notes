@@ -36,4 +36,5 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Pointer Sentinel Mixture Model](notes/pointer-sentinel-mixture.md) - Merity et al. [[paper](https://arxiv.org/abs/1609.07843)]      
 [Teaching Machines to Read and Comprehend](notes/teaching-machines-read.md) - Hermann et al. [[paper](https://arxiv.org/abs/1506.03340)]           
 [Quasi-Recurrent Neural Networks](notes/qrnn.md) - Bradbury et al. [[paper](https://arxiv.org/abs/1611.01576)]    
-[Twin Networks: Matching The Future For Sequence Generation](notes/twin-networks.md) - Serdyuk et al. [[paper](https://arxiv.org/abs/1708.06742)]     
+[Twin Networks: Matching The Future For Sequence Generation](notes/twin-networks.md) - Serdyuk et al. [[paper](https://arxiv.org/abs/1708.06742)]        
+[Sequence-to-Sequence Learning as Beam-Search Optimization](notes/learning-as-bso.md) - Wiseman et al. [[paper]( https://arxiv.org/abs/1606.02960)]       
