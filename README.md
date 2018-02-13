@@ -3,11 +3,13 @@ This respository contains short notes on Deep Learning research publications tha
 This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his [notes repository](https://github.com/dennybritz/deeplearning-papernotes).
 
 ## Natural Language Processing
-#### Word Embeddings
+#### Distributed Representation/Embeddings
 [Linguistic Regularities in Continuous Space Word Representations](notes/regularities-in-cont-word-repr.md) - Mikolov et al. [[paper](https://www.aclweb.org/anthology/N13-1090)]   
 [Efficient Estimation of Word Representations in Vector Space](notes/efficient-esti-of-word-repr.md) - Mikolov et al. [[paper](https://arxiv.org/abs/1301.3781)]   
 [Distributed Representations of Words and Phrases and their Compositionality](notes/dist-representation-words.md) - Mikolov et al. [[paper](https://arxiv.org/abs/1310.4546)]      
-[GloVe: Global Vectors for Word Representations](notes/glove.md) - Pennington et al [[paper](https://nlp.stanford.edu/pubs/glove.pdf)]    
+[GloVe: Global Vectors for Word Representations](notes/glove.md) - Pennington et al [[paper](https://nlp.stanford.edu/pubs/glove.pdf)]   
+[Skip-Thought Vectors](notes/skip-thought-vectors.md) - Kiros et al [[paper](https://arxiv.org/abs/1506.06726)]    
+
 
 #### Neural Machine Translation
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-repr.md) - Cho et al. [[paper](https://arxiv.org/abs/1406.1078)]    
@@ -18,6 +20,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-zero.md) - Johnson et al. [[paper](http://arxiv.org/pdf/1611.04558.pdf)]    
 [Plan, Attend, Generate: Character-Level Neural Machine Translation with Planning](notes/plan-attend-generate.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1706.05087)]    
 
+
 #### Text Summarization
 [A Hierarchical Neural Autoencoder for Paragraphs and Documents](notes/hier-neural-autoencoder.md) - Li et al. [[paper](https://arxiv.org/abs/1506.01057)]  
 [A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attn-abs-sent-summ.md) - Rush et al. [[paper](https://arxiv.org/abs/1509.00685)]     
@@ -26,9 +29,11 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Get To The Point: Summarization with Pointer-Generator Networks](notes/get-to-the-point.md) - See et al. [[paper](https://arxiv.org/abs/1704.04368)]   
 [A Deep Reinforced Model for Abstractive Summarization](notes/reinforced-text-sum.md) - Paulus et al. [[paper](https://arxiv.org/abs/1705.04304)]   
 
+
 #### Image Captioning
 [Show and Tell: A Neural Image Caption Generator](notes/show-and-tell.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1411.4555)]   
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-and-tell.md) - Xu et al. [[paper](https://arxiv.org/abs/1502.03044)]
+
 
 #### Other
 [Pointer Networks](notes/pointer-networks.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1506.03134)]     
@@ -40,6 +45,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Sequence-to-Sequence Learning as Beam-Search Optimization](notes/learning-as-bso.md) - Wiseman et al. [[paper]( https://arxiv.org/abs/1606.02960)]            
 [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](notes/scheduled-sampling.md) - Bengio et al. [[paper](https://arxiv.org/abs/1506.03099)]  
 [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) - Lamb et al. [[paper](https://arxiv.org/abs/1610.09038)]      
+
 
 ## General
 [Highway Networks](notes/highway-nets.md) - Srivastava et al. [[paper](https://arxiv.org/abs/1505.00387)]    
