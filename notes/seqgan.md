@@ -9,6 +9,7 @@ The authors propose a novel approach to training neural models for Language Gene
 #### Key points
 - Both the Generator and Discriminator require pretraining using the MLE regime
 - Using an RNN Generator and CNN Discriminator allowed the model to work with variable length sequences
+- Discriminator CNN had single Conv layer with filters of different width and single max pooling layer
 - Monte Carlo rollouts used to obtain per-token rewards
 
 #### Experiments
