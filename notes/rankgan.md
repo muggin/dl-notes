@@ -9,7 +9,7 @@ In the paper, the authors propose a novel architecture for training Language Gen
 #### Key points
 - Training done Policy Gradient because of discrete outputs from the Generator
 - In experiments both Discriminator and Generator are LSTM-based
-- Discriminator first encodes sequence into fixed size, vector representation
+- Discriminator first encodes sequence into fixed size, vector representation before ranking them
 - Ranker can use any similarity metric between two vectors, in experiments cosine similairity was used
 - Sofmax layer is used on top of similarity function to yield the final ordering
 - Monte Carlo rollouts used to obtain per-token reward
