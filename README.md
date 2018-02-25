@@ -45,6 +45,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Sequence-to-Sequence Learning as Beam-Search Optimization](notes/learning-as-bso.md) - Wiseman et al. [[paper]( https://arxiv.org/abs/1606.02960)]            
 [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](notes/scheduled-sampling.md) - Bengio et al. [[paper](https://arxiv.org/abs/1506.03099)]  
 [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) - Lamb et al. [[paper](https://arxiv.org/abs/1610.09038)]      
+[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](notes/seqgan.md) - Yu et al. [[paper](https://arxiv.org/abs/1609.05473)]        
 
 
 ## General
