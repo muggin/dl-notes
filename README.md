@@ -47,6 +47,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) - Lamb et al. [[paper](https://arxiv.org/abs/1610.09038)]      
 [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](notes/seqgan.md) - Yu et al. [[paper](https://arxiv.org/abs/1609.05473)]      
 [Adversarial Ranking for Language Generation](notes/rankgan.md) - Lin et al. [[paper](https://arxiv.org/abs/1705.11001)]         
+[Analysis Methods in Neural Language Processing](notes/nlp-analysis.md) - Belinkov et al. [[paper](https://arxiv.org/abs/1812.08951)]
 
 ## General
 [Highway Networks](notes/highway-nets.md) - Srivastava et al. [[paper](https://arxiv.org/abs/1505.00387)]    
