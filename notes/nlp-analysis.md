@@ -17,7 +17,7 @@ and other methods.
 #### Key points
 - Linguistic information captured by models:
 	- Associating network components with linguistic properties by predicting those properties from network activations (using auxilary classifier with inputs from analyzed model)
-	- Computing correlation between network activations and linguistic properties (RNN state vs. depth in syntactic tree)
+	- Computing correlation between activations and linguistic properties (RNN state vs. depth in syntax tree)
 	- Computing correlation between attention weights and linguistic properties
 - Visualization:
 	- Showing RNN hidden unit activations (and their correspondence to grammatical structures)
