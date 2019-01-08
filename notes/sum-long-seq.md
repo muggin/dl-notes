@@ -32,6 +32,7 @@ The paper also introduced a new dataset (WikiSum) for multi-document summarizati
 	- Memory-compressed attention - number of key/values is reduced by using a strided convolution layer
 
 
+
 #### Other notes
 - Data-driven information extraction might work better than TF-IDF and other tested algorithms
 - Questions for human evaluators: Grammaticality, Redundancy, Referential clarity, Focus, Structure, and Coherence
