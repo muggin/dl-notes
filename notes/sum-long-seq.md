@@ -1,5 +1,5 @@
 ## Generating Wikipedia by Summarizing Long Sequences
-_Authors:_ Peter Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, et al.    
+_Authors:_ Peter Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Seppasi, Kaiser, Shazeer.    
 _Publishing Year:_ 2018   
 _Link:_ https://arxiv.org/abs/1801.10198   
 
@@ -34,4 +34,4 @@ The paper also introduced a new dataset (WikiSum) for multi-document summarizati
 
 #### Other notes
 - Data-driven information extraction might work better than TF-IDF and other tested algorithms
-- Questions for human evaluators: Grammaticality, Redundancy, Referential clarity, Focus, Structure, and Coherene.
+- Questions for human evaluators: Grammaticality, Redundancy, Referential clarity, Focus, Structure, and Coherence
