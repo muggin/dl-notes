@@ -28,6 +28,8 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](notes/abstractive-text-sum-rnns-beyond.md) - Nallapati et al. [[paper](https://arxiv.org/abs/1602.06023)]   
 [Get To The Point: Summarization with Pointer-Generator Networks](notes/get-to-the-point.md) - See et al. [[paper](https://arxiv.org/abs/1704.04368)]   
 [A Deep Reinforced Model for Abstractive Summarization](notes/reinforced-text-sum.md) - Paulus et al. [[paper](https://arxiv.org/abs/1705.04304)]   
+[Generating Wikipedia by Summarizing Long Sequences](notes/sum-long-seq.md) - Liu et al. [[paper](https://arxiv.org/abs/1801.10198)]   
+
 
 
 #### Image Captioning
