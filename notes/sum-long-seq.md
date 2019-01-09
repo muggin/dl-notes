@@ -1,5 +1,5 @@
 ## Generating Wikipedia by Summarizing Long Sequences
-_Authors:_ Peter Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Seppasi, Kaiser, Shazeer    
+_Authors:_ Peter Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Seppasi, Lukasz Kaiser, Noam Shazeer    
 _Publishing Year:_ 2018   
 _Link:_ https://arxiv.org/abs/1801.10198   
 
