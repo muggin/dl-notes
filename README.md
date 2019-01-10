@@ -30,6 +30,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [A Deep Reinforced Model for Abstractive Summarization](notes/reinforced-text-sum.md) - Paulus et al. [[paper](https://arxiv.org/abs/1705.04304)]   
 [Generating Wikipedia by Summarizing Long Sequences](notes/sum-long-seq.md) - Liu et al. [[paper](https://arxiv.org/abs/1801.10198)]   
 [Global Encoding for Abstractive Summarization](notes/glob-enc-abs-sum.md) - Lin et al. [[paper](https://arxiv.org/abs/1805.03989)]   
+[A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](notes/uni-model-for-ext-abs-sum.md) - Hsu et al. [[paper](https://arxiv.org/abs/1805.06266)]   
 
 
 #### Image Captioning
