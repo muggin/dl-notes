@@ -32,6 +32,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Global Encoding for Abstractive Summarization](notes/glob-enc-abs-sum.md) - Lin et al. [[paper](https://arxiv.org/abs/1805.03989)]   
 [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](notes/uni-model-for-ext-abs-sum.md) - Hsu et al. [[paper](https://arxiv.org/abs/1805.06266)]   
 [Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation](notes/soft-layer-multi-sum.md) - Guo et al. [[paper](https://arxiv.org/abs/1805.11004)]   
+[Content Selection in Deep Learning Models of Summarization](notes/content-selection-sum.md) - Kedzie et al. [[paper](https://arxiv.org/abs/1810.12343)]   
 
 
 #### Image Captioning
