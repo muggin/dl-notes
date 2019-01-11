@@ -31,6 +31,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Generating Wikipedia by Summarizing Long Sequences](notes/sum-long-seq.md) - Liu et al. [[paper](https://arxiv.org/abs/1801.10198)]   
 [Global Encoding for Abstractive Summarization](notes/glob-enc-abs-sum.md) - Lin et al. [[paper](https://arxiv.org/abs/1805.03989)]   
 [A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](notes/uni-model-for-ext-abs-sum.md) - Hsu et al. [[paper](https://arxiv.org/abs/1805.06266)]   
+[Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation](notes/soft-layer-multi-sum.md) - Guo et al. [[paper](https://arxiv.org/abs/1805.11004)]   
 
 
 #### Image Captioning
