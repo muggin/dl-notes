@@ -34,6 +34,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation](notes/soft-layer-multi-sum.md) - Guo et al. [[paper](https://arxiv.org/abs/1805.11004)]   
 [Content Selection in Deep Learning Models of Summarization](notes/content-selection-sum.md) - Kedzie et al. [[paper](https://arxiv.org/abs/1810.12343)]   
 [Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling](notes/abs-sum-info-sel-mod.md) - Li et al. [[paper](http://aclweb.org/anthology/D18-1205)]   
+[On the Abstractiveness of Neural Document Summarization](notes/abstractiveness-neural-doc-sum.md) - Zhang  et al. [[paper](http://aclweb.org/anthology/D18-1089)]   
 
 
 #### Image Captioning
