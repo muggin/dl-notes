@@ -22,9 +22,9 @@ The model is trained using the REINFORCE algorithm, where the reward is a weight
 	- Generated training data by finding pairs that maximize ROUGE between input and summary sentences
 - Instead of obtaining per sentence target labels using heuristics, treat prediction vector as latent variable
 - Train extractive model using REINFORCE algorithm:
-	- Use single sample 
-	- Use reward from weighted "recall" and "precision" scores between extracted sentences and human written summary
-	- Use sentence-compression model to obtain "recall" and "precision" scores
+	- Single sample to estimate expected value
+	- Reward from weighted _recall_ and _precision_ scores between extracted sentences and human written summary
+	- Sentence-compression model to obtain _recall_ and _precision_ scores
 
 
 #### Experiments
