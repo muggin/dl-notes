@@ -12,7 +12,7 @@ The authors also propse a method of training ensembles on very big datasets, whe
 
 #### Key points
 - Large models used to extract structure from data during training, smaller models using _distilled_ knowledge used for inference
-- Relative probabilities output by a large model to all classes contains valuable information about the generalization abilities of the model
+- Relative probabilities over all classes output by a large model contain valuable information about the generalization abilities of the model
 - Training smaller models to mimic the logits of larger models is a special, inferior case of _distillation_
 - The distilled model is taught to generalize in the same fashion as the large model
 - Model distillation uses the output softmax of the larger model with a temperature factor to obtain smoother distributions
