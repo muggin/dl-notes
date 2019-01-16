@@ -36,6 +36,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling](notes/abs-sum-info-sel-mod.md) - Li et al. [[paper](http://aclweb.org/anthology/D18-1205)]   
 [On the Abstractiveness of Neural Document Summarization](notes/abstractiveness-neural-doc-sum.md) - Zhang  et al. [[paper](http://aclweb.org/anthology/D18-1089)]   
 [Neural Latent Extractive Document Summarization](notes/neural-latent-ext-summ.md) - Zhang  et al. [[paper](https://arxiv.org/abs/1808.07187)]   
+[Iterative Document Representation Learning Towards Summarization with Polishing](notes/iter-doc-repr-learning.md) - Chen et al. [[paper](https://arxiv.org/abs/1809.10324)]   
 
 
 #### Image Captioning
