@@ -60,3 +60,4 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 
 ## General
 [Highway Networks](notes/highway-nets.md) - Srivastava et al. [[paper](https://arxiv.org/abs/1505.00387)]    
+[Distilling the Knowledge in a Neural Network](notes/distilling-knowledge.md) - Hinton et al. [[paper](https://arxiv.org/abs/1503.02531)]    
