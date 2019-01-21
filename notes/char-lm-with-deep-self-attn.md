@@ -35,5 +35,6 @@ During training, the model is augmented with auxiliary losses that enable faster
 
 
 #### Other notes
+- Context length limited to fixed-sized segment length
 - 64 layer version has 5x the number of paramters of regular RNN-based model
 - 12 layer version has similar amount of paramters to regular RNN-based model
