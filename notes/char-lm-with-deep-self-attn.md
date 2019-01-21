@@ -20,6 +20,7 @@ During training, the model is augmented with auxiliary losses that enable faster
 	- Positional embeddings - learned, per-layer positional embeddings that are added before each self-attention layer
 - Auxiliary losses add parametrized prediction heads that are only used during training (smaller number of parameters during inference)
 - Auxiliary losses are decayed (using a schedule) as training proceeds 
+- Context-size for each generative step is preset and constant
 - No state is passed between predictions, computations must be done from scratch
 
 
