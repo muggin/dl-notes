@@ -14,10 +14,10 @@ During training, the model is augmented with auxiliary losses that enable faster
 - Self-attention-based LMs should outperform RNN-based models in utilizing long-term dependencies
 - The LM-based model uses 64 self-attention layers (which yields 5x model paramters in comparison to RNNs)
 - Auxiliary losses are added to the total lose to improve convergence and regularize the model:
-	- Multiple positions - adding prediction task to each position in final layer (predict `t1` from `t0`, `t2` from `t1`, etc.)
-	- Intermedial Layer losses - adding predictions from each position in all intermediate layers
+	- Multiple positions - prediction task to each position in final layer (predict `t1` from `t0`, `t2` from `t1`, etc.)
+	- Intermedial Layer losses - predictions from each position in all intermediate layers
 	- Multiple targets - at each position predicting and and two future characters (predict `t1` and `t2` from `t0`, etc.)
-	- Positional embeddings - add learned, per-layer positional embeddings that are added before each self-attention layer
+	- Positional embeddings - learned, per-layer positional embeddings that are added before each self-attention layer
 - Auxiliary losses add parametrized prediction heads that are only used during training (smaller number of parameters during inference)
 - Auxiliary losses are decayed (using a schedule) as training proceeds 
 - No state is passed between predictions, computations must be done from scratch
