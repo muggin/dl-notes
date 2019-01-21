@@ -58,6 +58,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Sequence-to-Sequence Learning as Beam-Search Optimization](notes/learning-as-bso.md) - Wiseman et al. [[paper]( https://arxiv.org/abs/1606.02960)]            
 [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](notes/scheduled-sampling.md) - Bengio et al. [[paper](https://arxiv.org/abs/1506.03099)]   
 [Analysis Methods in Neural Language Processing](notes/nlp-analysis.md) - Belinkov et al. [[paper](https://arxiv.org/abs/1812.08951)]     
+[Character-Level Language Modeling with Deeper Self-Attention](notes/char-lm-with-deep-self-attn.md) - Al-Rfou et al. [[paper](https://arxiv.org/abs/1808.04444)]     
 
 ## General
 [Highway Networks](notes/highway-nets.md) - Srivastava et al. [[paper](https://arxiv.org/abs/1505.00387)]    
