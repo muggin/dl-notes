@@ -10,6 +10,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [GloVe: Global Vectors for Word Representations](notes/glove.md) - Pennington et al [[paper](https://nlp.stanford.edu/pubs/glove.pdf)]   
 [Skip-Thought Vectors](notes/skip-thought-vectors.md) - Kiros et al [[paper](https://arxiv.org/abs/1506.06726)]    
 [Learned in Translation: Contextualized Word Vectors](notes/cove.md) - McCann et al [[paper](http://arxiv.org/abs/1708.00107)]    
+[Deep Contextualized Word Representations](notes/elmo.md) - Peters et al [[paper](http://arxiv.org/abs/1808.08949)]    
 
 
 #### Neural Machine Translation
