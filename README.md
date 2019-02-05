@@ -13,6 +13,9 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Deep Contextualized Word Representations](notes/elmo.md) - Peters et al. [[paper](http://arxiv.org/abs/1808.08949)]    
 
 
+#### Multi-Task Learning
+[Multi-task Deep Neural Networks for Natural Language Understanding](notes/mtdnn-nlu.md) - Liu et al. [[paper](http://arxiv.org/abs/1901.11504)]    
+
 #### Neural Machine Translation
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-repr.md) - Cho et al. [[paper](https://arxiv.org/abs/1406.1078)]    
 [Sequence to Sequence Learning with Neural Networks](notes/seq-to-seq-neural-nets.md) - Sutskever et al. [[paper](https://arxiv.org/abs/1409.3215)]    
