@@ -20,6 +20,7 @@ The model outperforms outher representation learning architecture when measured 
 	- Auxiliary tasks group by output type: single sentence classification, text similarity, pairwise text classification, and sentence ranking.
 - Multiple tasks work as a regularizer for the model, allowing it to achieve better generalizability
 - Model converges much fast in comparison to regular BERT in case of domain adaptation
+- MT-DNN uses BERT_LARGE for its initial layers
 
 
 #### Experiments
