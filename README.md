@@ -16,6 +16,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 #### Multi-Task Learning
 [Multi-task Deep Neural Networks for Natural Language Understanding](notes/mtdnn-nlu.md) - Liu et al. [[paper](http://arxiv.org/abs/1901.11504)]    
 
+
 #### Neural Machine Translation
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-repr.md) - Cho et al. [[paper](https://arxiv.org/abs/1406.1078)]    
 [Sequence to Sequence Learning with Neural Networks](notes/seq-to-seq-neural-nets.md) - Sutskever et al. [[paper](https://arxiv.org/abs/1409.3215)]    
@@ -64,6 +65,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](notes/scheduled-sampling.md) - Bengio et al. [[paper](https://arxiv.org/abs/1506.03099)]   
 [Analysis Methods in Neural Language Processing](notes/nlp-analysis.md) - Belinkov et al. [[paper](https://arxiv.org/abs/1812.08951)]     
 [Character-Level Language Modeling with Deeper Self-Attention](notes/char-lm-with-deep-self-attn.md) - Al-Rfou et al. [[paper](https://arxiv.org/abs/1808.04444)]     
+[End-to-End Memory Networks](notes/e2e-mnn.md) - Sukhbaatar et al. [[paper](https://arxiv.org/pdf/1503.08895.pdf)]     
 
 ## General
 [Highway Networks](notes/highway-nets.md) - Srivastava et al. [[paper](https://arxiv.org/abs/1505.00387)]    
