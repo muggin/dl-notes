@@ -12,6 +12,10 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Learned in Translation: Contextualized Word Vectors](notes/cove.md) - McCann et al. [[paper](http://arxiv.org/abs/1708.00107)]    
 [Deep Contextualized Word Representations](notes/elmo.md) - Peters et al. [[paper](http://arxiv.org/abs/1808.08949)]    
 
+#### Language Modeling
+[Character-Level Language Modeling with Deeper Self-Attention](notes/char-lm-with-deep-self-attn.md) - Al-Rfou et al. [[paper](https://arxiv.org/abs/1808.04444)]     
+[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](notes/transformer-xl.md) - Dai et al. [[paper](http://arxiv.org/abs/1901.02860)]     
+
 
 #### Multi-Task Learning
 [Multi-task Deep Neural Networks for Natural Language Understanding](notes/mtdnn-nlu.md) - Liu et al. [[paper](http://arxiv.org/abs/1901.11504)]    
@@ -54,6 +58,7 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](notes/seqgan.md) - Yu et al. [[paper](https://arxiv.org/abs/1609.05473)]      
 [Adversarial Ranking for Language Generation](notes/rankgan.md) - Lin et al. [[paper](https://arxiv.org/abs/1705.11001)]  
 
+
 #### Other
 [Pointer Networks](notes/pointer-networks.md) - Vinyals et al. [[paper](https://arxiv.org/abs/1506.03134)]     
 [Pointing the Unknown Words](notes/pointing-the-unknown.md) - Gulcehre et al. [[paper](https://arxiv.org/abs/1603.08148)]    
@@ -64,7 +69,6 @@ This idea was borrowed from [Denny Britz](https://github.com/dennybritz) and his
 [Sequence-to-Sequence Learning as Beam-Search Optimization](notes/learning-as-bso.md) - Wiseman et al. [[paper]( https://arxiv.org/abs/1606.02960)]            
 [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](notes/scheduled-sampling.md) - Bengio et al. [[paper](https://arxiv.org/abs/1506.03099)]   
 [Analysis Methods in Neural Language Processing](notes/nlp-analysis.md) - Belinkov et al. [[paper](https://arxiv.org/abs/1812.08951)]     
-[Character-Level Language Modeling with Deeper Self-Attention](notes/char-lm-with-deep-self-attn.md) - Al-Rfou et al. [[paper](https://arxiv.org/abs/1808.04444)]     
 [End-to-End Memory Networks](notes/e2e-mnn.md) - Sukhbaatar et al. [[paper](https://arxiv.org/pdf/1503.08895.pdf)]     
 
 ## General
